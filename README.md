@@ -6,7 +6,6 @@ The report documents the investigation of a denial-of-service condition affectin
 The project focuses on identifying abnormal TCP connection patterns, analyzing the TCP three-way handshake abuse, and documenting the incident in a structured format aligned with real-world SOC and incident response practices.
 
 ## Scope
-
 - Analysis of TCP-based network traffic
 - Identification of denial-of-service attack patterns
 - Interpretation of TCP handshake behavior
@@ -62,7 +61,6 @@ All IP addresses, systems, and network traffic analyzed in this project are **fi
 ## Project Status
 
 **Complete**
-
 Included deliverables:
 - Formal cybersecurity incident report (PDF)
 - Packet-level network traffic log captured with Wireshark
@@ -81,4 +79,5 @@ Ilias Korompilis
 
 ## License
 Academic and educational use only
+
 
