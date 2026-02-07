@@ -71,16 +71,14 @@ Included deliverables:
 This repository represents a finished incident response and analysis artifact, not a draft or partial investigation.
 
 ## Notes
-
 - All domains, IP addresses, and network traffic are fictional.
 - IP ranges used align with documentation and non-production standards.
 - The report structure and terminology follow real-world SOC and incident response practices.
 - The focus of this project is analysis and documentation, not remediation or system hardening.
 
 ## Author
-
 Ilias Korompilis
 
 ## License
-
 Academic and educational use only
+
